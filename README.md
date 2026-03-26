@@ -4,7 +4,7 @@
 
 🚀 **Flutter Developer | Cross-Platform App Specialist | UI/UX Enthusiast**
 
-I’m a passionate Flutter developer with **3.10 years of experience** designing and developing scalable **mobile and web applications**.  
+I’m a passionate Flutter developer with **4.3 years of experience** designing and developing scalable **mobile and web applications**.  
 My expertise spans across **healthcare**, **ERP**, and **e-commerce** domains — building solutions that are performant, elegant, and user-focused.
 
 ---
